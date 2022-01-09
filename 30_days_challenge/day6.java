@@ -40,3 +40,17 @@ public class day6 {
         sc.close();
     }
 }
+
+// a more compact solution in second for loop can be done as follows:
+
+/*
+
+for (int sj = 0; sj < s_j.length(); sj++) {
+                if (sj % 2 == 0)
+                    evenStr += s_j.substring(sj, sj + 1);
+                else
+                    oddStr += s_j.substring(sj, sj + 1);
+            }
+            System.out.println(evenStr + " " + oddStr);
+
+*/
