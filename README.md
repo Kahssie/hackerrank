@@ -1,6 +1,9 @@
 # Hackerrank Practice Files
 
-This is to help keep track of my Hackerrank progression and files :-)
+This is to help keep track of my Hackerrank progression and files 😃
+
+For this 30 Days Challenge, I'm practicing with Java!
+Any alternative solutions are not mine unless stated otherwise.
 
 ## 30 Days Challenge
 Days completed:
@@ -11,4 +14,4 @@ Days completed:
 - [X] Day4
 - [X] Day5
 - [X] Day6 (with a more compact solution included)
-
+- [X] Day7 (with alternative solutions that do not use the default code)
