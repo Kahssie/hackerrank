@@ -10,4 +10,5 @@ Days completed:
 - [X] Day3
 - [X] Day4
 - [X] Day5
+- [X] Day6
 
