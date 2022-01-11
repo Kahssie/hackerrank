@@ -2,10 +2,10 @@
 
 This is to help keep track of my Hackerrank progression and files 😃
 
+## 30 Days Challenge
 For this 30 Days Challenge, I'm practicing with Java!
 Any alternative solutions are not mine unless stated otherwise.
 
-## 30 Days Challenge
 Days completed:
 - [X] Day0
 - [X] Day1
@@ -15,3 +15,4 @@ Days completed:
 - [X] Day5
 - [X] Day6 (with a more compact solution included)
 - [X] Day7 (with alternative solutions that do not use the default code)
+- [X] Day8
