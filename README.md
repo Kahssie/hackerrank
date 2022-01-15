@@ -16,3 +16,4 @@ Days completed:
 - [X] Day6 (with a more compact solution included)
 - [X] Day7 (with alternative solutions that do not use the default code)
 - [X] Day8
+- [X] Day9
