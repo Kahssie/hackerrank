@@ -17,3 +17,4 @@ Days completed:
 - [X] Day7 (with alternative solutions that do not use the default code)
 - [X] Day8
 - [X] Day9
+- [X] Day10
