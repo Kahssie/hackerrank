@@ -10,7 +10,7 @@ import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-class day9 {
+class Result {
 
     /*
      * Complete the 'factorial' function below.
@@ -31,7 +31,7 @@ class day9 {
 
 }
 
-public class Solution {
+public class day9 {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
