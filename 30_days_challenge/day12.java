@@ -35,7 +35,12 @@ class Student extends Person {
      * 
      * @param scores - An array of integers denoting the Person's test scores.
      */
+
     // Write your constructor here
+    Student(String firstName, String lastName, int idNumber, int[] scores) {
+        super(firstName, lastName, idNumber);
+        this.testScores = scores;
+    }
 
     /*
      * Method Name: calculate
@@ -43,6 +48,31 @@ class Student extends Person {
      * @return A character denoting the grade.
      */
     // Write your method here
+    char calculate() {
+        // calculate avg
+        int totalScore = 0;
+        int avg = 0;
+
+        for (int i = 0; i < testScores.length; i++) {
+            totalScore += testScores[i];
+        }
+
+        avg = totalScore / testScores.length;
+        if (90 <= avg && avg <= 100) {
+            return ('O');
+        } else if (80 <= avg) {
+            return ('E');
+        } else if (70 <= avg) {
+            return ('A');
+        } else if (55 <= avg) {
+            return ('P');
+        } else if (40 <= avg) {
+            return ('D');
+        } else {
+            return ('T');
+        }
+
+    }
 }
 
 class day12 {
