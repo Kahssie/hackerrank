@@ -24,6 +24,8 @@ Days completed:
 
 
 ## Interview Preparation Kit
-### Warmup
+### Warmup **COMPLETE**
 - [X] Sales By Match
-- [ ] Counting Valleys
+- [X] Counting Valleys
+- [X] Jumping on the Clouds
+- [X] Repeated String
