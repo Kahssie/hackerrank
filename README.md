@@ -29,3 +29,9 @@ Days completed:
 - [X] Counting Valleys
 - [X] Jumping on the Clouds
 - [X] Repeated String
+
+### Arrays
+- [X] Left Rotation (Easy)
+- [ ] New Year Chaos (Med)
+- [ ] Minimum Swaps 2 (Med)
+- [ ] Array Manipulation (Hard)
