@@ -3,7 +3,7 @@
 This is to help keep track of my Hackerrank progression and files 😃
 
 ## 30 Days Challenge
-For this 30 Days Challenge, I'm practicing with Java!
+For this 30 Days Challenge, I'm practicing with Java/Python!
 Any alternative solutions are not mine unless stated otherwise.
 
 Days completed:
@@ -21,6 +21,9 @@ Days completed:
 - [X] Day11
 - [X] Day12
 - [X] Day13
+- [ ] Day14
+- [X] Day 15 (Python)
+- [X] Day 16 (Python)
 
 
 ## Interview Preparation Kit
