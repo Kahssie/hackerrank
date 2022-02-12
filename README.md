@@ -32,7 +32,7 @@ Days completed:
 
 ### Arrays
 - [X] Left Rotation (Easy)
-- [ ] 2D Array - DS
+- [X] 2D Array - DS (same as an earlier java file, but now Python)
 - [X] New Year Chaos (Med)
 - [ ] Minimum Swaps 2 (Med)
 - [ ] Array Manipulation (Hard)
