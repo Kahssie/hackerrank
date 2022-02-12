@@ -32,6 +32,6 @@ Days completed:
 
 ### Arrays
 - [X] Left Rotation (Easy)
-- [ ] New Year Chaos (Med)
+- [X] New Year Chaos (Med)
 - [ ] Minimum Swaps 2 (Med)
 - [ ] Array Manipulation (Hard)
