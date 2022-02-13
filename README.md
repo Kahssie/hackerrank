@@ -37,5 +37,11 @@ Days completed:
 - [X] Left Rotation (Easy)
 - [X] 2D Array - DS (same as an earlier java file, but now Python)
 - [X] New Year Chaos (Med)
-- [ ] Minimum Swaps 2 (Med)
+- [X] Minimum Swaps 2 (Med)
 - [ ] Array Manipulation (Hard)
+
+### Dictionaries and hashmaps
+- [X] Hash Tables: Ransom Note (Easy)
+- [X] Two Strings (Easy)
+- [ ] Sherlock and Anagrams (Med)
+- [ ]
